@@ -1,4 +1,2 @@
 #!/bin/bash
-os.getcwd()
-os.path.abspath(current_directory)
-print("Absolute path:", absolute_path)
+pwd
